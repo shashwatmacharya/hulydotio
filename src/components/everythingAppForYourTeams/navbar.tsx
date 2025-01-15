@@ -3,7 +3,7 @@ import React from 'react'
 const NavbarComp: React.FC = () => {
     return (
         <div className='flex justify-between items-center'>
-            <div className='flex items-center gap-16'>
+            <div className='flex items-center gap-20'>
                 <div>
                     <img src="/assets/images/hulylogo.svg" alt="" className='h-7' />
                 </div>
