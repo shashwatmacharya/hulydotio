@@ -17,7 +17,7 @@ const EAFYTComp: React.FC = () => {
   };
 
   return (
-    <div className='px-80 pt-8'>
+    <section className='px-80 pt-8'>
       <NavbarComp />
       <div className='pt-36'>
         <div>
@@ -49,7 +49,7 @@ const EAFYTComp: React.FC = () => {
           </div>
         </div>
       </div>
-    </div>
+    </section>
   )
 }
 
